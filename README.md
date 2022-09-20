@@ -16,6 +16,6 @@ https://solstice99.notion.site/2-1-IoT-287df0e3741a423e98253493ecbd76c8
 ### 스마트폰 앱
 ![Untitled3](https://user-images.githubusercontent.com/77760474/190958619-aba89206-fded-434a-93b9-b24e9927d5ba.png)
 
-### 전시회 사진 & 동영상
+### 전시회 사진
 ![IMG_2573](https://user-images.githubusercontent.com/77760474/190958626-5939f3d6-0ca9-457d-ba4a-5927128d5299.jpeg)
 ![IMG_2575](https://user-images.githubusercontent.com/77760474/190958635-fecac391-6fd8-434c-adc2-c355c1a03d76.jpeg)

@@ -1,9 +1,15 @@
 # Project-SmartToiletAlarm
-
-인하공전 IoT 임베디드 오픈플랫폼 프로젝트   
-
 프로젝트 Notion 주소   
 https://solstice99.notion.site/2-1-IoT-287df0e3741a423e98253493ecbd76c8
+
+<div align="center">
+  <h1>- 스마트 화장실 비상벨 -</h1>
+  2학년 1학기 [IoT 임베디드 오픈플랫폼] 과제 프로젝트<br>
+  2021. 5. 8. ~ 2021. 6. 11.<br><br>
+  <img src="https://img.shields.io/badge/C++-gray?logo=cplusplus&logoColor=white&labelColor=00599C&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-gray?logo=arduino&logoColor=white&labelColor=00979D&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Android-gray?logo=android&logoColor=white&labelColor=3DDC84&style=for-the-badge"/>
+</div>
 
 <hr/>
 
